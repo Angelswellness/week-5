@@ -26,6 +26,12 @@ This project was built for Week 5 and Week 6 of Web Development class and includ
 
 Angels Wellness supports health promotion, disease prevention, and holistic guidance rooted in functional and integrative medicine.
 
+## Project Files
+
+- [index.html](./index.html)
+- [styles.css](./styles.css)
+- [quote.js](./quote.js)
+
 
 
 ---
